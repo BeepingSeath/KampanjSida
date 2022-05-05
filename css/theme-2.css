@@ -1,8 +1,8 @@
 :root {
-    --color-dark: #303136;
-    --color-light: #fdfeff;
-    --color-primary: #362d42;
-    --color-secondary: #d1aafb;
+    --color-dark: #213983;
+    --color-light: #e4e4e4;
+    --color-primary: #142455;
+    --color-secondary: #968afc;
 }
 
 body {
@@ -41,7 +41,7 @@ body {
 
 .navbar {
     background-color: var(--color-primary);
-    box-shadow: 0px 8px 16px 0px var(--color-shadow);
+    box-shadow: 0px 8px 16px 0px var(--color-primary);
     display: block;
     padding: 0;
     font-size: 1.333rem;
@@ -67,12 +67,15 @@ body {
 
 /* klasser för att styla texten i navbar */
 .brand {
-    color: var(--color-light);
+    color: var(--color-secondary);
     text-decoration: none;
+}
+.brand:hover {
+    color: var(--color-light)
 }
 
 .material-icons {
-    color: var(--color-light);
+    color: var(--color-primary);
 }
 
 .nav-link:hover {
@@ -92,11 +95,14 @@ q {
 /* listan på dorgs, inneh¨åller flera cards */
 .staff {
     display: flex;
+    justify-content: center;
+    justify-content: space-around;
     column-gap: 1rem;
 }
 
 .card {
    min-width: 10rem;
+   max-width: 10rem;
 }
 
 .card > * {
@@ -104,10 +110,9 @@ q {
 }
 
 .card-header > img {
-    border-radius: 100%;
     object-fit: cover;
-    width: 200px;
-    height: 200px;
+    width: 175px;
+    height: 175px;
 }
 
 @media (max-width: 768px) {
@@ -119,7 +124,7 @@ q {
 /* cta knappen */
 .btn {
     border-radius: 0.333rem;
-    color: var(--color-dark)
+    color:#292828
 }
 .btn:hover {
     color: var(--color-light);

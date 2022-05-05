@@ -4,11 +4,10 @@ Skriv ned tema, färger, vad handlar din text om.
 Skapa 
 
 * färger
--   #f5e8e8
--   #2e356c
--   #505684
--   #72789c
--   #949ab5
+    #213983;
+    #e4e4e4;
+    #142455;
+    #2e4fb3;
 * bilder ikoner
 ![CensurLogo](/img/CensurLogo.png)
 * typsnitt
@@ -24,7 +23,7 @@ Har planerat arbetet och skapat tema. Lagt in text och valt tema 2.
 
 
 ## Vecka 18
-Jag ska formatera min sida
+Jag har lagt till färg på sidan, lagt till bilder och ändrat på hur text ser ut på sidan.
 
 
 
