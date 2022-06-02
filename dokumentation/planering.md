@@ -31,6 +31,7 @@ Jag har lagt till färg på sidan, lagt till bilder och ändrat på hur text ser
 
 
 ## Vecka 20
+Jag har finslipat några sista saker. 
 
 
 
@@ -40,8 +41,7 @@ Jag har lagt till färg på sidan, lagt till bilder och ändrat på hur text ser
 
 
 ## Vecka 22 
-
-Inlämning och PM
+Lite finjustering, checkade validator och fixade problemen, checkade css validator och det var inga problem. Skrev PM och lämnade in.
 
 
 
