@@ -15,6 +15,8 @@ Nästa lektion så började jag lägga in text och valde tema 2 utav dem som Jen
 
 ![CensurTrollkarl](/img/BlackWizard.png)
 
+Sist så har jag testa hur sidan fungerar på olika webbläsare, jag testade på Opera och Internet Explorer. 
+
 ## Positiva erfarenheter
 
 Det kan vara lite svårt att använda en annan persons mall men jag har lärt mig hur man använder en sådan på en högre nivå än innan. 
