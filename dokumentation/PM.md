@@ -15,7 +15,7 @@ Nästa lektion så började jag lägga in text och valde tema 2 utav dem som Jen
 
 ![CensurTrollkarl](/img/BlackWizard.png)
 
-Sist så har jag testa hur sidan fungerar på olika webbläsare, jag testade på Opera och Internet Explorer. 
+Sist så har jag testa hur sidan fungerar på olika webbläsare, jag testade på Opera och Internet Explorer. På Opera fungerade all min kod och såg ut som den skulle. I Internet Explorer så fungerar inte CSS koden men HTML verkar fortfarande fungera. Efter det så testade jag min sida på mobil för att se hur det såg ut. Allting går att läsa men loggan längst upp på sidan blir lite ihoptryckt.
 
 ## Positiva erfarenheter
 
