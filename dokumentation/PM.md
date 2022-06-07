@@ -11,11 +11,11 @@ Syftet med arbetet är att skapa en sida för att läsa kampanjtexten som vi tid
 Första delen av processen är att skapa ett tema som består av färger, en ikon, typsnitt och hur jag vill att former ska se ut. 
 ![CensurLogo](/img/CensurLogo.png)
 
-Nästa lektion så började jag lägga in text och valde tema 2 utav dem som Jens hade skapat. Jag la till färger på sidan och en bild plus ikonen. Jag ändrade även på hur text var uppsatt på sidan. Efter det finslipade jag hur sidan såg ut och ändrade lite färger för att inte ha några kontrastproblem. Jag fixade även lite text som råkade vara på fel språk.
+Nästa lektion så började jag lägga in text och valde tema 2 utav dem som Jens hade skapat. Jag la till färger på sidan och en bild plus ikonen. Jag ändrade även på hur text var uppsatt på sidan. Efter det finslipade jag hur sidan såg ut och ändrade lite färger för att inte ha några kontrastproblem. Jag fixade även lite text som råkade vara på fel språk. 
 
 ![CensurTrollkarl](/img/BlackWizard.png)
 
-Sist så har jag testa hur sidan fungerar på olika webbläsare, jag testade på Opera och Internet Explorer. På Opera fungerade all min kod och såg ut som den skulle. I Internet Explorer så fungerar inte CSS koden men HTML verkar fortfarande fungera. Efter det så testade jag min sida på mobil för att se hur det såg ut. Allting går att läsa men loggan längst upp på sidan blir lite ihoptryckt.
+Jag validerade sidans HTML och hittade några fel men jag fixade dem. I CSS koden så var det inga fel. Sist så har jag testa hur sidan fungerar på olika webbläsare, jag testade på Opera och Internet Explorer. På Opera fungerade all min kod och såg ut som den skulle. I Internet Explorer så fungerar inte CSS koden men HTML verkar fortfarande fungera. Efter det så testade jag min sida på mobil för att se hur det såg ut. Allting går att läsa men loggan längst upp på sidan blir lite ihoptryckt.
 
 ## Positiva erfarenheter
 
